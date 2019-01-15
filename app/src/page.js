@@ -1,5 +1,5 @@
 import {sortByDistance} from "./distance";
-import $ from "jQuery";
+import $ from "jquery";
 
 let stores = [
   {name: "Cambridge Naturals", x: -71.1189, y: 42.3895},
