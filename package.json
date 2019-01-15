@@ -2,6 +2,12 @@
   "name": "webpack-mocha-tutorial",
   "version": "1.0.0",
   "author": "&y Haskell",
+  
+  "article": "https://github.com/andyhaskell/webpack-mocha-tutorial",
+
+  "repository": "https://github.com/andyhaskell/webpack-mocha-tutorial",
+  "repository": "https://github.com/dgleba/webpack438b",
+
   "license": "MIT",
   "scripts": {
     "build": "webpack --mode=development",
